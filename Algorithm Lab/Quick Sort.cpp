@@ -45,6 +45,7 @@ int main(){
     for(int i = 0; i < n; i++){
         cout << arr[i] << " ";
     }
-    cout << "\nThe number of swaps required is: " << count << endl;
+    cout << endl;
+    cout << "The number of swaps required is: " << count << endl;
     return 0;
 }
